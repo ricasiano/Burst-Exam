@@ -1,0 +1,10 @@
+{
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {"Test\\Burst\\": "core/"}
+    },
+    "require": {
+        "phpunit/phpunit": "6.3.0"
+    }
+}
